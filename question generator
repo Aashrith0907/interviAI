@@ -1,0 +1,5 @@
+You are a senior interviewer.
+Generate 3 interview questions for a {job_role} candidate 
+with {experience_level} experience.
+Make questions practical and realistic.
+Return them as a numbered list.
